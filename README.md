@@ -1,94 +1,66 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38BDF8&center=true&vCenter=true&width=940&lines=Hi+there,+I'm+Shirajam+Munir+👋;Aspiring+SOC+Analyst+|+Detection+Engineer;Securing+the+Cloud+|+Hunting+Threats+🔍;Building+Tomorrow's+Defense+Today+🛡️" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0891b2,100:164e63&height=200&section=header&text=Shirajam%20Munir&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Detection%20Engineer%20%7C%20Threat%20Hunter&descAlignY=55&descSize=20" />
+
+</div>
+
+<div align="center">
+
+### 🛡️ Securing Tomorrow's Digital Landscape | Building Next-Gen Defense Systems
 
 <br/>
 
-💭 **Cybersecurity Wisdom**  
-*"Security is not a product, but a process."* — Bruce Schneier  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shirajam-munir/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shirajammunir1997@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munircse1995/Shirajam-Munir)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=munircse1995&label=Profile%20Views&color=00d4ff&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me  
-
-I’m a **cybersecurity enthusiast** specializing in **SOC analysis, detection engineering, and cloud security**.  
-Currently preparing for **CompTIA Security+** and building **enterprise-grade SOC projects** that demonstrate real-world detection, automation, and response capabilities.  
-
+## 👤 About Me
 ```yaml
-name: Shirajam Munir
-role: Aspiring SOC Analyst (Tier 1)
-location: Dhaka, Bangladesh 🇧🇩
-target_location: Europe 🇪🇺 (Remote/Relocation)
-current_focus:
-  - Detection Engineering (Sigma + ATT&CK)
-  - Cloud Security (AWS / Azure)
-  - Security Automation (SOAR)
-  - Python for Security Ops
-certification_goal: CompTIA Security+ (Q2 2025)
-learning_platforms:
-  - Hack The Box (Active)
-  - TryHackMe (SOC Level 1)
+Profile:
+  Name: Shirajam Munir
+  Role: Aspiring SOC Analyst (Tier 1)
+  Location: Dhaka, Bangladesh 🇧🇩
+  Target: Europe 🇪🇺 (Remote/Relocation Ready)
+
+Expertise:
+  - Detection Engineering (Sigma Rules, MITRE ATT&CK)
+  - Cloud Security (AWS, Azure, GCP)
+  - Security Automation & SOAR Development
+  - Threat Hunting & Intelligence Analysis
+  - Python Security Scripting
+
+Certification:
+  Current: CompTIA Security+ (In Progress - 60%)
+  Target: Q2 2025
+
+Learning:
+  - Hack The Box (Active Member)
+  - TryHackMe (SOC Level 1 Path - 75% Complete)
   - Blue Team Labs Online
-🛠️ Technical Arsenal
-🔐 Security Tools
-Splunk · Elastic · Wazuh · Wireshark · Suricata · Zeek · TheHive
+I'm a cybersecurity professional specializing in Security Operations Center (SOC) analysis, detection engineering, and cloud security. Building production-grade projects that demonstrate real-world threat detection and incident response capabilities.
+🎯 Current Focus
 
-☁️ Cloud & Infrastructure
-AWS · Azure · GCP · Docker · Kubernetes · Terraform
+🔐 Building 5-7 enterprise-grade SOC projects showcasing detection engineering & automation
+☁️ Mastering cloud-native security monitoring (AWS CloudTrail, Azure Sentinel)
+🤖 Integrating AI/LLM for intelligent alert triage & incident response
+🎓 Pursuing CompTIA Security+ certification
+🌍 Targeting SOC Analyst roles at top European tech companies
 
-💻 Programming & Automation
-Python · Bash · PowerShell · GitHub Actions
 
-📏 Frameworks & Standards
-MITRE ATT&CK · Sigma · NIST · ISO 27001 · OWASP · CIS
-
-🚀 Featured SOC Projects
-🔍 Detection Engineering Lab
-📂 View Repository | 🟡 In Progress
-
-✔️ 25+ Sigma rules (multi-SIEM)
-✔️ 94% MITRE ATT&CK coverage
-✔️ Automated CI/CD testing with Atomic Red Team
-
-☁️ Cloud-Native SOC Platform
-📂 View Repository | 🟡 In Progress
-
-✔️ Multi-cloud log ingestion (AWS & Azure)
-✔️ Real-time detection + SOAR playbooks
-✔️ IaC with Terraform for scale
-
-🤖 AI-Enhanced SOAR Automation (Q1 2025)
-📂 Planned Repository
-
-✔️ LLM-powered alert triage & summaries
-✔️ Threat intel enrichment & phishing analysis
-✔️ Target: 75% analyst workload reduction
-
-📊 GitHub Analytics
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=munircse1995&show_icons=true&theme=react&hide_border=true&count_private=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munircse1995&layout=compact&theme=react&hide_border=true" />
-<br/><br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=munircse1995&theme=react&hide_border=true" /> </div>
-🎓 Certifications & Learning
-📜 CompTIA Security+ (In Progress – Q2 2025)
-
-🎯 TryHackMe (SOC L1) (75% Complete)
-
-🏴‍☠️ Hack The Box (Active Member)
-
-💙 Blue Team Level 1 (BTL1) (Planned – Q3 2025)
-
-💼 Career Focus
-🎯 Actively seeking SOC Analyst (Tier 1) opportunities in:
-🇨🇭 Switzerland · 🇩🇪 Germany · 🇳🇱 Netherlands · 🇬🇧 UK · 🇸🇪 Sweden
-
-🏢 Target Companies: Google · Microsoft · Spotify · CrowdStrike · Palo Alto Networks
-
-<div align="center"> <a href="https://www.linkedin.com/in/shirajam-munir/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shirajammunir1997@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/munircse1995/Shirajam-Munir"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-<br/><br/>
-
-⭐ If you like my work, consider giving my projects a star!
-
-</div> ```
+🛠️ Technical Skills
+<div align="center">
+Security Tools & Platforms
+https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white
+https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white
+https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge&logo=wazuh&logoColor=white
+https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=zeek&logoColor=white
+https://img.shields.io/badge/TheHive-FFA500?style=for-the-badge&logo=thehive&logoColor=white
